@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2023-10-10T01:33:38.944Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="bIs7wfUZLyh7-nWWPjlN" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-10T01:38:32.193Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="ilfNA28PttuJLn5kfkSm" version="22.0.4" type="github">
   <diagram name="Page-1" id="QOnCMlsmTzdgT5YH56XX">
     <mxGraphModel dx="344" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="rtsEEE8eoIe5HCCmPybn-1" value="walkDirectory&lt;br&gt;(read directory)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="270" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="rtsEEE8eoIe5HCCmPybn-2" value="getHTMLComplection&lt;br&gt;(prompt and chatgptAPI)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="200" width="140" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
